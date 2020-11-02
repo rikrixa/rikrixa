@@ -2,7 +2,7 @@
 
 I work on problems related to Counter masquerading, which involves Automated Reasoning, NLP, NLG and Sentiment Analysis.
 
-- ⚡ Fun fact: I actually have extensively worked with [Nao](https://en.wikipedia.org/wiki/Nao_(robot))
+- ⚡ Fun fact: I have worked with [Nao](https://en.wikipedia.org/wiki/Nao_(robot))
 - 🔭 I’m currently working on Deep Learning and Logic based systems to solve Mathematical Theorems.
 <!--
 **rikrixa/rikrixa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
