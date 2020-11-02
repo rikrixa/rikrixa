@@ -1,5 +1,9 @@
-### Hi there 👋
+### Rikhiya Ghosh here! 👋
 
+I work on problems related to Counter masquerading, which involves Automated Reasoning, NLP, NLG and Sentiment Analysis.
+
+- ⚡ Fun fact: I actually have extensively worked with [Nao](https://en.wikipedia.org/wiki/Nao_(robot))
+- 🔭 I’m currently working on Deep Learning and Logic based systems to solve Mathematical Theorems.
 <!--
 **rikrixa/rikrixa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| Work                       | Academic | Fun Stuff! |
+|----------------------------|----------|------------|
+| :microscope: AI researcher | 🎓 Alum of [RPI](https://www.rpi.edu/)         |   🤖 Co exist with Nao Robots. [Psst!](https://www.youtube.com/watch?v=D_HmP2e42qk)         |
+|📜 Thesis : Counter-masquerading in Social Media| 📜 [CV](https://github.com/rikrixa/CV/blob/main/RikhiyaGhosh_CV.pdf)         |    👩‍💻 Woman in Tech        |
+| 🌐 Automated Reasoning, Emotion Models|  🎓 [Google Scholar](https://scholar.google.com/citations?user=0s_HT_4AAAAJ)       |  📜 Fascinated with history!          |
+|:notebook: ML,NLP & NLG| :notebook: Deep Learning  |     🎶🎸 Hindustaani Vocalist!|
